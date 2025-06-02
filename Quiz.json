@@ -1,0 +1,16 @@
+{
+    "quiz_title": "Cybersecurity Fundamentals",
+    "level": "beginner",
+    "time_limit": 20,
+    "questions": [
+        {
+            "question_text": "What is the most common method hackers use to gain access to systems?",
+            "answers": [
+                { "text": "Phishing emails", "is_correct": true },
+                { "text": "Brute force attacks", "is_correct": false },
+                { "text": "Physical theft", "is_correct": false },
+                { "text": "Social media posts", "is_correct": false }
+            ]
+        }
+    ]
+}
